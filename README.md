@@ -12,7 +12,7 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            height: 30vh;
+            height: 100vh;
             background-color: #f5f5f5;
         }
         .icons-container {
@@ -20,7 +20,7 @@
             gap: 20px;
         }
         .icons-container img {
-            width: 60px;
+            width: 30px;
             height: 60px;
             transition: transform 0.3s;
         }
