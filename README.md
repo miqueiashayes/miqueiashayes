@@ -25,7 +25,7 @@
             transition: transform 0.3s;
         }
         .icons-container img:hover {
-            transform: scale(1.2);
+            transform: scale(0.5);
         }
     </style>
 </head>
