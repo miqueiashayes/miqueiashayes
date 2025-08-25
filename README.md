@@ -17,7 +17,7 @@
 
 
 <div align="right">
-  <img height="200" src="https://media1.tenor.com/m/_HKvSrpwPGYAAAAC/oikawa-toru.gif"  />
+  <img height="100" src="https://media1.tenor.com/m/_HKvSrpwPGYAAAAC/oikawa-toru.gif"  />
 </div>
 
 
