@@ -15,18 +15,6 @@
             height: 100vh;
             background-color: #f5f5f5;
         }
-        .icons-container {
-            display: flex;
-            gap: 15px; /* espaçamento menor */
-        }
-        .icons-container img {
-            width: 40px; /* tamanho menor */
-            height: 40px;
-            transition: transform 0.2s;
-        }
-        .icons-container img:hover {
-            transform: scale(1.2); /* efeito leve ao passar o mouse */
-        }
     </style>
 </head>
 <body>
