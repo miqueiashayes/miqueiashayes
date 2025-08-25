@@ -7,15 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ícones de Tecnologias</title>
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 40vh;
-            background-color: ;
-        }
-    </style>
+        
+    
 </head>
 <body>
     <div class="icons-container">
