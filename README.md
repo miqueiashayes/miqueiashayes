@@ -17,15 +17,15 @@
         }
         .icons-container {
             display: flex;
-            gap: 20px;
+            gap: 15px; /* espaçamento menor */
         }
         .icons-container img {
-            width: 30px;
-            height: 60px;
-            transition: transform 0.3s;
+            width: 40px; /* tamanho menor */
+            height: 40px;
+            transition: transform 0.2s;
         }
         .icons-container img:hover {
-            transform: scale(0.5);
+            transform: scale(1.2); /* efeito leve ao passar o mouse */
         }
     </style>
 </head>
@@ -41,8 +41,6 @@
     </div>
 </body>
 </html>
-
-
 
 <div align="right">
   <img height="200" src="https://media1.tenor.com/m/_HKvSrpwPGYAAAAC/oikawa-toru.gif"  />
