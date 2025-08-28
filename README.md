@@ -35,7 +35,7 @@ Objetivo: Tornar-me um desenvolvedor Full-Stack de destaque e criar projetos imp
 ---
 
 ### 📫 Contato
-- Email: [seuemail@example.com](mailto:miqueiasgoncalvessantos3@gmail.com)
+- Email: [miqueiasgoncalvessantos3@gmail.com](mailto:miqueiasgoncalvessantos3@gmail.com)
 - LinkedIn: [Seu Perfil](https://www.linkedin.com/in/seu-perfil)
 - Portfólio: [Seu Portfólio](https://seuportfólio.com)
 
