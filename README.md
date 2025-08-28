@@ -21,24 +21,14 @@
 
 
   <h1>Sobre Mim</h1><p></p>
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**.
-🌱 Explorando novas tecnologias e aprimorando minhas habilidades em **React** e design responsivo.
-Objetivo: Tornar-me um desenvolvedor Full-Stack de destaque e criar projetos impactantes.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas.
+Sou um estudante e desenvolvedor visando ser full-stack no mundo da tecnoa qual sou apaixonado.
 
 ---
 
-<div align="center">
-  <h3>✨ Uma pequena inspiração para o dia:</h3>
-  <img height="100" src="https://media1.tenor.com/m/_HKvSrpwPGYAAAAC/oikawa-toru.gif" alt="Inspiração GIF">
-</div>
 
 ---
 
 ### 📫 Contato
 - Email: [miqueiasgoncalvessantos3@gmail.com](mailto:miqueiasgoncalvessantos3@gmail.com)
-- LinkedIn: [Seu Perfil](https://www.linkedin.com/in/seu-perfil)
-- Portfólio: [Seu Portfólio](https://seuportfólio.com)
-
----
-
-> **Nota:** Este repositório é um ✨ _perfil especial_ ✨, com um `README.md` que aparece no seu perfil do GitHub.
+- LinkedIn: [Seu https://www.linkedin.com/in/miqueias-gon%C3%A7alves-santos-46bb962a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_special_ ✨, com um `README.md` que aparece no seu perfil do GitHub.
