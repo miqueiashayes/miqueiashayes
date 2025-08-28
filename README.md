@@ -31,4 +31,4 @@ Sou um estudante e desenvolvedor visando ser full-stack no mundo da tecnoa qual 
 
 ### 📫 Contato
 - Email: [miqueiasgoncalvessantos3@gmail.com](mailto:miqueiasgoncalvessantos3@gmail.com)
-- LinkedIn: [Seu https://www.linkedin.com/in/miqueias-gon%C3%A7alves-santos-46bb962a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_special_ ✨, com um `README.md` que aparece no seu perfil do GitHub.
+- LinkedIn: [Seu https://www.linkedin.com/in/miqueias-gon%C3%A7alves-santos-46bb962a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_special_.
