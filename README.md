@@ -24,7 +24,7 @@
 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e inovação. Anteriormente iniciei a graduação em Ciências da Computação, mas optei por seguir uma nova jornada acadêmica mais alinhada aos meus objetivos.
 Atualmente, desenvolvo projetos utilizando HTML, CSS, JavaScript, React, C e C++, sempre buscando aprimorar minhas habilidades e explorar novas ferramentas. Além disso, tenho experiência em UI Design, unindo a programação ao design para criar soluções funcionais e visuais.
 Meu objetivo é me especializar e construir carreira como Analista de Dados, unindo a lógica da programação, o design e a análise de informações para gerar valor e insights estratégicos.
----
+
 
 
 ---
