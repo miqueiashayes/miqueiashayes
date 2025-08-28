@@ -20,7 +20,7 @@
 
 
 
-  <h1Sobre Mim</h1>
+  <h1>Sobre Mim</h1><p></p>
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**.
 🌱 Explorando novas tecnologias e aprimorando minhas habilidades em **React** e design responsivo.
 Objetivo: Tornar-me um desenvolvedor Full-Stack de destaque e criar projetos impactantes.
