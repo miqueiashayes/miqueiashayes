@@ -1,36 +1,44 @@
-<h4 align="center">Olá! Me chamo Miqueias e estou iniciando minha jornada profissional como Desenvolvedor Front-End e Web Designer. Sou estudante de Análise e Desenvolvimento de Sistemas e Anteriomente cursei Ciência da Computação, o que me proporcionou uma boa base em lógica de programação e fundamentos da área de tecnologia. Atualmente, foco meus estudos em HTML, CSS, JavaScript e ferramentas de design como o Figma, buscando unir estética e funcionalidade na criação de interfaces modernas e responsivas. Como desenvolvedor júnior, estou sempre buscando aprender, evoluir e participar de projetos que me desafiem a colocar em prática meus conhecimentos. Meu objetivo é crescer na área de desenvolvimento web, contribuir com soluções criativas e seguir aprendendo diariamente. Estou disponível para colaborar em projetos, freelas ou oportunidades que me permitam adquirir experiência e construir minha trajetória na tecnologia.👨🏾‍💻Atualmente, trabalho como dev front-end e Web-desing, continuo estudando e evoluindo nos meus projetos, sempre buscando aprender mais e compartilhar o que sei de forma simples e prática.</h4>
+<h1 align="center">Olá, me chamo Miqueias! 👋</h1>
 
-    
-        
-    
-<icone>
-    <div aling="right">
-        <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML">
-        <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS">
-        <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript">
-        <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React">
-        <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C">
-        <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++">
-        <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma">
-    </div>
+<p align="center">
+  Estou iniciando minha jornada profissional como Desenvolvedor Front-End e Web Designer. 
+  Sou estudante de Análise e Desenvolvimento de Sistemas e tenho paixão por criar soluções criativas e funcionais para a web.
+</p>
 
+---
 
-
-<div align="right">
-  <img height="100" src="https://media1.tenor.com/m/_HKvSrpwPGYAAAAC/oikawa-toru.gif"  />
+### 🛠️ Tecnologias e Ferramentas
+<div align="center">
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML">
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS">
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript">
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React">
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C">
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++">
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma">
 </div>
 
+---
 
+### 💡 Sobre Mim
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**.
+- 🌱 Explorando novas tecnologias e aprimorando minhas habilidades em **React** e design responsivo.
+- 🎯 Objetivo: Tornar-me um desenvolvedor Front-End de destaque e criar projetos impactantes.
 
+---
 
+<div align="center">
+  <h3>✨ Uma pequena inspiração para o dia:</h3>
+  <img height="100" src="https://media1.tenor.com/m/_HKvSrpwPGYAAAAC/oikawa-toru.gif" alt="Inspiração GIF">
+</div>
 
+---
 
-<br clear="both">
+### 📫 Contato
+- Email: [seuemail@example.com](mailto:seuemail@example.com)
+- LinkedIn: [Seu Perfil](https://www.linkedin.com/in/seu-perfil)
+- Portfólio: [Seu Portfólio](https://seuportfólio.com)
 
+---
 
-<!--
-**miqueiashayes/miqueiashayes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
+> **Nota:** Este repositório é um ✨ _perfil especial_ ✨, com um `README.md` que aparece no seu perfil do GitHub.
