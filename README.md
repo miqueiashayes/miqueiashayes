@@ -1,7 +1,7 @@
 <h1 align="center">Olá, me chamo Miqueias! 👋</h1>
 
 <p align="center">
-  Estou iniciando minha jornada profissional como Desenvolvedor Front-End e Web Designer. 
+  Estou iniciando minha jornada profissional como Desenvolvedor. 
   Sou estudante de Análise e Desenvolvimento de Sistemas e tenho paixão por criar soluções criativas e funcionais para a web.
 </p>
 
@@ -21,9 +21,9 @@
 
 
   <h1>Sobre Mim</h1><p></p>
-🎓 Estudante de Análise e Desenvolvimento de Sistemas.
-Sou um estudante e desenvolvedor visando ser full-stack no mundo da tecnoa qual sou apaixonado.
-
+🎓 Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e inovação. Anteriormente iniciei a graduação em Ciências da Computação, mas optei por seguir uma nova jornada acadêmica mais alinhada aos meus objetivos.
+Atualmente, desenvolvo projetos utilizando HTML, CSS, JavaScript, React, C e C++, sempre buscando aprimorar minhas habilidades e explorar novas ferramentas. Além disso, tenho experiência em UI Design, unindo a programação ao design para criar soluções funcionais e visuais.
+Meu objetivo é me especializar e construir carreira como Analista de Dados, unindo a lógica da programação, o design e a análise de informações para gerar valor e insights estratégicos.
 ---
 
 
