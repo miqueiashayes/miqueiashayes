@@ -18,18 +18,12 @@
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" style="transition: transform 0.3s;">
 </div>
 
-<style>
-  div img:hover {
-    transform: scale(1.2); /* Aumenta o tamanho do ícone ao passar o mouse */
-  }
-</style>
 
----
 
-### 💡 Sobre Mim
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**.
-- 🌱 Explorando novas tecnologias e aprimorando minhas habilidades em **React** e design responsivo.
-- 🎯 Objetivo: Tornar-me um desenvolvedor Front-End de destaque e criar projetos impactantes.
+  <h1Sobre Mim</h1>
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**.
+🌱 Explorando novas tecnologias e aprimorando minhas habilidades em **React** e design responsivo.
+Objetivo: Tornar-me um desenvolvedor Full-Stack de destaque e criar projetos impactantes.
 
 ---
 
@@ -41,7 +35,7 @@
 ---
 
 ### 📫 Contato
-- Email: [seuemail@example.com](mailto:seuemail@example.com)
+- Email: [seuemail@example.com](mailto:miqueiasgoncalvessantos3@gmail.com)
 - LinkedIn: [Seu Perfil](https://www.linkedin.com/in/seu-perfil)
 - Portfólio: [Seu Portfólio](https://seuportfólio.com)
 
