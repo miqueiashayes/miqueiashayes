@@ -1,34 +1,60 @@
-<h1 align="center">Olá, me chamo Miqueias! 👋</h1>
+<h1 align="center">👋 Olá, eu sou o Miqueias!</h1>
 
 <p align="center">
-  Estou iniciando minha jornada profissional como Desenvolvedor. 
-  Sou estudante de Análise e Desenvolvimento de Sistemas e tenho paixão por criar soluções criativas e funcionais para a web.
+  Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>, 19 anos.<br>
+  Apaixonado por <strong>desenvolvimento web</strong>, <strong>criação de sistemas</strong> e <strong>análise de dados</strong>.
 </p>
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" style="transition: transform 0.3s;">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" style="transition: transform 0.3s;">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" style="transition: transform 0.3s;">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" style="transition: transform 0.3s;">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" style="transition: transform 0.3s;">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" style="transition: transform 0.3s;">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" style="transition: transform 0.3s;">
+## 🚀 Minhas Habilidades
+
+<div align="center">
+
+### 💻 Linguagens & Frameworks  
+<p>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" />
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" />
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="50" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" />
+  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="50" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" />
+</p>
+
+### 🗄️ Banco de Dados  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" />
+</p>
+
+### 🛠️ Ferramentas  
+<p>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" />
+</p>
+
 </div>
-
-
-
-  <h1>Sobre Mim</h1><p></p>
-🎓 Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e inovação. Anteriormente iniciei a graduação em Ciências da Computação, mas optei por seguir uma nova jornada acadêmica mais alinhada aos meus objetivos.
-Atualmente, desenvolvo projetos utilizando HTML, CSS, JavaScript, React, C e C++, sempre buscando aprimorar minhas habilidades e explorar novas ferramentas. Além disso, tenho experiência em UI Design, unindo a programação ao design para criar soluções funcionais e visuais.
-Meu objetivo é me especializar e construir carreira como Analista de Dados, unindo a lógica da programação, o design e a análise de informações para gerar valor e insights estratégicos.
-
-
 
 ---
 
-### 📫 Contato
-- Email: [miqueiasgoncalvessantos3@gmail.com](mailto:miqueiasgoncalvessantos3@gmail.com)
-- LinkedIn: [Seu https://www.linkedin.com/in/miqueias-gon%C3%A7alves-santos-46bb962a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_special_
+## 🎯 Objetivos
+- Evoluir como desenvolvedor **fullstack**.  
+- Aprofundar conhecimentos em **banco de dados** e **análise de dados**.  
+- Contribuir em projetos open-source e criar soluções inovadoras.  
+
+---
+
+## 📫 Como me encontrar
+<p align="center">
+  <a href="https://github.com/seuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/seulinkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">✨ Sempre buscando aprender e evoluir!</p>
