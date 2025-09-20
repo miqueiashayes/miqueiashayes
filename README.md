@@ -43,18 +43,3 @@
 - Aprofundar conhecimentos em **banco de dados** e **análise de dados**.  
 - Contribuir em projetos e criar soluções inovadoras.  
 
----
-
-## 📫 Como me encontrar
-<p align="center">
-  <a href="https://github.com/seuusuario" target="_blank">
-    <img src="https://github.com/miqueiashayes/miqueiashayes/blob/main/README.md"/>
-  </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">✨ Sempre buscando aprender e evoluir!</p>
