@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Miqueias!</h1>
 
 <p align="center">
-  Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>, 19 anos.<br>
+  Sou Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>, e tenho 19 anos.<br>
   Apaixonado por <strong>desenvolvimento web</strong>, <strong>criação de sistemas</strong> e <strong>análise de dados</strong>.
 </p>
 
@@ -41,7 +41,7 @@
 ## 🎯 Objetivos
 - Evoluir como desenvolvedor **fullstack**.  
 - Aprofundar conhecimentos em **banco de dados** e **análise de dados**.  
-- Contribuir em projetos open-source e criar soluções inovadoras.  
+- Contribuir em projetos e criar soluções inovadoras.  
 
 ---
 
