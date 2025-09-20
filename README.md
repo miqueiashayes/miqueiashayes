@@ -48,9 +48,9 @@
 ## 📫 Como me encontrar
 <p align="center">
   <a href="https://github.com/seuusuario" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://github.com/miqueiashayes/miqueiashayes/blob/main/README.md"/>
   </a>
-  <a href="https://linkedin.com/in/seulinkedin" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
