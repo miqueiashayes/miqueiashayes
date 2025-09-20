@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Miqueias!</h1><h2>desenvolvedor fullstack </h2>
+<h1 align="center">Olá, eu sou o Miqueias!</h1><h3>Desenvolvedor fullstack </h3>
 
 <p align="center">
   Sou Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> e Desenvolvedor FullStack. <br>
