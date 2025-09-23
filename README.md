@@ -48,18 +48,18 @@
 
 🛠️ **Tecnologias e Ferramentas**
 
-- **Linguagens**: Python, JavaScript, SQL  
+- **Linguagens**: Python, JavaScript, TypeScript, C/C++ e SQL  
 - **Frameworks e Bibliotecas**: Flask, React  
 - **Banco de Dados**: MySQL  
 - **Frontend**: HTML, CSS  
 - **Controle de Versão**: Git, GitHub  
-- **Outros conhecimentos**: Testes de software, APIs RESTful, boas práticas de desenvolvimento
+- **Outros conhecimentos**: Desenvolvimento web, Testes de software, APIs, boas práticas de desenvolvimento
 
 ---
 
 📬 **Contato**
 
-- **E-mail**: [seuemailaqui@gmail.com](mailto:seuemailaqui@gmail.com)
+- **E-mail**: [miqueiasgoncalvessantos3@gmail.com](mailto:seuemailaqui@gmail.com)
 
 
 
