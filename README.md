@@ -35,7 +35,33 @@
 
 </div>
 
+
 ---
+
+📚 **Sobre mim**
+
+- 💼 **Desenvolvedor Full Stack**: Experiência com **Python (Flask)** no backend e **JavaScript (React)** no frontend, além de domínio de **HTML**, **CSS** e **SQL (MySQL)**.
+- 🎓 **Estudante dedicado**: Sempre buscando aprender mais, melhorar minhas práticas e aplicar o que aprendo em projetos reais.
+- 🔐 **Entusiasta em cibersegurança**: Aprofundando conhecimentos para proteger aplicações, sistemas e dados contra ameaças digitais.
+
+---
+
+🛠️ **Tecnologias e Ferramentas**
+
+- **Linguagens**: Python, JavaScript, SQL  
+- **Frameworks e Bibliotecas**: Flask, React  
+- **Banco de Dados**: MySQL  
+- **Frontend**: HTML, CSS  
+- **Controle de Versão**: Git, GitHub  
+- **Outros conhecimentos**: Testes de software, APIs RESTful, boas práticas de desenvolvimento
+
+---
+
+📬 **Contato**
+
+- **E-mail**: [seuemailaqui@gmail.com](mailto:seuemailaqui@gmail.com)
+
+
 
 ## 🎯 Objetivos
 - Evoluir como desenvolvedor **fullstack**.  
