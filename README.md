@@ -18,6 +18,8 @@
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" />
   <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="50" />
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" />
+  <img src="https://skillicons.dev/icons?i=C" alt="C" width="50" />
+
 </p>
 
 ### 🗄️ Banco de Dados  
@@ -38,7 +40,7 @@
 
 📚 **Sobre mim**
 
-- 💼 **Desenvolvedor Full Stack**: Experiência com **Python (Flask)** no backend e **JavaScript (React)** no frontend, além de domínio de **HTML**, **CSS**, **SQL** e **(MySQL)**.
+- 💼 **Desenvolvedor Full Stack**: Experiência com **Python (Flask)** no backend e **JavaScript (React)** **(C)** no frontend, além de domínio de **HTML**, **CSS**, **SQL** e **(MySQL)**.
 - 🎓 **Estudante dedicado**: Sempre buscando aprender mais, melhorar minhas práticas e aplicar o que aprendo em projetos reais.
 - 📊 **Futuro Analista de Banco de dados**.
 ---
