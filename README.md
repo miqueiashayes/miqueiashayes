@@ -40,7 +40,7 @@
 
 📚 **Sobre mim**
 
-- 💼 **Desenvolvedor Full Stack**: Experiência com **Python (Flask)** no backend e **JavaScript (React)** **(C)** no frontend, além de domínio de **HTML**, **CSS**, **SQL** e **(MySQL)**.
+- 💼 **Desenvolvedor Full Stack**: Experiência com **Python (Flask)**, **(C)** no backend e **JavaScript (React)** no frontend, além de domínio de **HTML**, **CSS**, **SQL** e **(MySQL)**.
 - 🎓 **Estudante dedicado**: Sempre buscando aprender mais, melhorar minhas práticas e aplicar o que aprendo em projetos reais.
 - 📊 **Futuro Analista de Banco de dados**.
 ---
