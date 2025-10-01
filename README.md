@@ -75,32 +75,23 @@
 - Evoluir como desenvolvedor **fullstack**.  
 - Aprofundar conhecimentos em **banco de dados** e **análise de dados**.  
 - Contribuir em projetos e criar soluções inovadoras.  
-
 ---
 
-## 📊 Minhas Skills em Progresso
+## 📊 Minhas Skills
 
 <div align="center">
 
-**Python**  
-![Python](https://progress-bar.dev/85/?title=Domínio&width=300)
-
-**JavaScript / React / Vue.js**  
-![JavaScript](https://progress-bar.dev/75/?title=Domínio&width=300)
-
-**Flask**  
-![Flask](https://progress-bar.dev/70/?title=Domínio&width=300)
-
-**MySQL**  
-![MySQL](https://progress-bar.dev/65/?title=Domínio&width=300)
-
-**Pandas**  
-![Pandas](https://progress-bar.dev/70/?title=Domínio&width=300)
-
-**Power BI**  
-![Power BI](https://progress-bar.dev/60/?title=Domínio&width=300)
-
-**HTML / CSS**  
-![HTML](https://progress-bar.dev/90/?title=Domínio&width=300)
+| Tecnologia                | Nível de Domínio |
+|----------------------------|------------------|
+| **Python** 🐍              | ██████████░░ 85% |
+| **JavaScript / React / Vue** ⚡ | ████████░░░ 75% |
+| **Flask** 🔥               | ███████░░░░ 70% |
+| **MySQL** 🗄️               | ██████░░░░░ 65% |
+| **Pandas** 🐼              | ███████░░░░ 70% |
+| **Power BI** 📊            | ██████░░░░░ 60% |
+| **HTML / CSS** 🎨          | ██████████░░ 90% |
 
 </div>
+
+---
+
