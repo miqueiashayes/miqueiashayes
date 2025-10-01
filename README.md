@@ -16,16 +16,21 @@
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" />
   <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" />
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" />
+  <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="50" />
   <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="50" />
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" />
   <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" />
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" />
 </div>
 
 
 ### 🗄️ Banco de Dados  
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" />
+</p>
+
+### 📊 Data Analytics  
+<p>
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="50" />
 </p>
 
 ### 🛠️ Ferramentas  
@@ -41,30 +46,30 @@
 
 📚 **Sobre mim**
 
-- 💼 **Desenvolvedor Full Stack**: Experiência com **Python (Flask)**, **(C)**, **(C++)** no backend e **JavaScript (React)** no frontend, além de domínio de **HTML**, **CSS**, **SQL** e **(MySQL)**.
+- 💼 **Desenvolvedor Full Stack**: Experiência com **Python (Flask)**, **C**, no backend e **JavaScript (React/Vue)** no frontend, além de domínio de **HTML**, **CSS**, **SQL** e **MySQL**.
 - 🎓 **Estudante dedicado**: Sempre buscando aprender mais, melhorar minhas práticas e aplicar o que aprendo em projetos reais.
-- 📊 **Futuro Analista de Banco de dados**.
+- 📊 **Futuro Analista de Banco de Dados e Dados (Power BI)**.
 ---
 
 🛠️ **Tecnologias e Ferramentas**
 
-- **Linguagens**: Python, JavaScript, TypeScript, C/C++ e SQL  
-- **Frameworks e Bibliotecas**: Flask, React  
+- **Linguagens**: Python, JavaScript, TypeScript, C, SQL  
+- **Frameworks e Bibliotecas**: Flask, React, Vue.js  
 - **Banco de Dados**: MySQL  
 - **Frontend**: HTML, CSS  
 - **Controle de Versão**: Git, GitHub  
+- **Data Analytics**: Power BI  
 - **Outros conhecimentos**: Desenvolvimento web, Testes de software, APIs, boas práticas de desenvolvimento
 
 ---
 
 📬 **Contato**
 
-- **E-mail**: [miqueiasgoncalvessantos3@gmail.com](mailto:seuemailaqui@gmail.com)
+- **E-mail**: [miqueiasgoncalvessantos3@gmail.com](mailto:miqueiasgoncalvessantos3@gmail.com)
 
-
+---
 
 ## 🎯 Objetivos
 - Evoluir como desenvolvedor **fullstack**.  
 - Aprofundar conhecimentos em **banco de dados** e **análise de dados**.  
 - Contribuir em projetos e criar soluções inovadoras.  
-
