@@ -47,9 +47,9 @@
 
 📚 **Sobre mim**
 
-- 💼 **Desenvolvedor Full Stack**: Experiência com **Python (Flask, Pandas)**, **C**, no backend e **JavaScript (React/Vue)** no frontend, além de domínio de **HTML**, **CSS** e **MySQL**.  
+- 💼 **Desenvolvedor Full Stack**: Experiência com **Python (Flask, Pandas)**, **C(Programação competitiva)**, no backend e **JavaScript (React/Vue)** no frontend, além de domínio de **HTML**, **CSS** e **MySQL**.  
 - 🎓 **Estudante dedicado**: Sempre buscando aprender mais, melhorar minhas práticas e aplicar o que aprendo em projetos reais.  
-- 📊 **Futuro Analista de Banco de Dados e Dados (Pandas + Power BI)**.  
+- 📊 **Futuro Analista de Banco de Dados e Dados**.  
 
 ---
 
@@ -60,7 +60,7 @@
 - **Banco de Dados**: MySQL  
 - **Frontend**: HTML, CSS  
 - **Controle de Versão**: Git, GitHub  
-- **Data Analytics**: Power BI, Pandas  
+- **Data Analytics**: Python, Power BI e Pandas  
 - **Outros conhecimentos**: Desenvolvimento web, Testes de software, APIs,automações e boas práticas de desenvolvimento  
 
 ---
