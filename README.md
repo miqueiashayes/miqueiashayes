@@ -55,13 +55,13 @@
 
 🛠️ **Tecnologias e Ferramentas**
 
-- **Linguagens**: Python, JavaScript, TypeScript, C, SQL  
+- **Linguagens**: Python, JavaScript, C.  
 - **Frameworks e Bibliotecas**: Flask, React, Vue.js, Pandas  
 - **Banco de Dados**: MySQL  
 - **Frontend**: HTML, CSS  
 - **Controle de Versão**: Git, GitHub  
 - **Data Analytics**: Power BI, Pandas  
-- **Outros conhecimentos**: Desenvolvimento web, Testes de software, APIs, boas práticas de desenvolvimento  
+- **Outros conhecimentos**: Desenvolvimento web, Testes de software, APIs,automações e boas práticas de desenvolvimento  
 
 ---
 
