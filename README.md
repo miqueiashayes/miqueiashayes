@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Minhas Habilidades
+##  Habilidades
 
 <div align="center">
 
@@ -23,12 +23,12 @@
 </div>
 
 
-### 🗄️ Banco de Dados  
+### Banco de Dados  
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" />
 </p>
 
-### 📊 Data Analytics  
+### Data Analytics  
 <p>
   <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="50" />
 </p>
@@ -46,11 +46,10 @@
 
 📚 **Sobre mim**
 
-- 💼 **Desenvolvedor Full Stack**: Experiência com **Python (Flask)**, **C**, no backend e **JavaScript (React/Vue)** no frontend, além de domínio de **HTML**, **CSS**, **SQL** e **MySQL**.
+- 💼 **Desenvolvedor Full Stack**: Experiência com **Python (Flask)**, **C**, no backend e **JavaScript (React/Vue)** no frontend, além de domínio de **HTML**, **CSS** e **MySQL**.
 - 🎓 **Estudante dedicado**: Sempre buscando aprender mais, melhorar minhas práticas e aplicar o que aprendo em projetos reais.
 - 📊 **Futuro Analista de Banco de Dados e Dados (Power BI)**.
 ---
-
 🛠️ **Tecnologias e Ferramentas**
 
 - **Linguagens**: Python, JavaScript, TypeScript, C, SQL  
@@ -73,3 +72,28 @@
 - Evoluir como desenvolvedor **fullstack**.  
 - Aprofundar conhecimentos em **banco de dados** e **análise de dados**.  
 - Contribuir em projetos e criar soluções inovadoras.  
+---
+
+## 📊 Minhas Skills em Progresso
+
+<div align="center">
+
+**Python**  
+![Python](https://progress-bar.dev/85/?title=Domínio&width=300)
+
+**JavaScript / React / Vue.js**  
+![JavaScript](https://progress-bar.dev/75/?title=Domínio&width=300)
+
+**Flask**  
+![Flask](https://progress-bar.dev/70/?title=Domínio&width=300)
+
+**MySQL**  
+![MySQL](https://progress-bar.dev/65/?title=Domínio&width=300)
+
+**Power BI**  
+![Power BI](https://progress-bar.dev/60/?title=Domínio&width=300)
+
+**HTML / CSS**  
+![HTML](https://progress-bar.dev/90/?title=Domínio&width=300)
+
+</div>
