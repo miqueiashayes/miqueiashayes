@@ -31,6 +31,7 @@
 ### Data Analytics  
 <p>
   <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="80" />
 </p>
 
 ### 🛠️ Ferramentas  
@@ -46,19 +47,21 @@
 
 📚 **Sobre mim**
 
-- 💼 **Desenvolvedor Full Stack**: Experiência com **Python (Flask)**, **C**, no backend e **JavaScript (React/Vue)** no frontend, além de domínio de **HTML**, **CSS** e **MySQL**.
-- 🎓 **Estudante dedicado**: Sempre buscando aprender mais, melhorar minhas práticas e aplicar o que aprendo em projetos reais.
-- 📊 **Futuro Analista de Banco de Dados e Dados (Power BI)**.
+- 💼 **Desenvolvedor Full Stack**: Experiência com **Python (Flask, Pandas)**, **C**, no backend e **JavaScript (React/Vue)** no frontend, além de domínio de **HTML**, **CSS** e **MySQL**.  
+- 🎓 **Estudante dedicado**: Sempre buscando aprender mais, melhorar minhas práticas e aplicar o que aprendo em projetos reais.  
+- 📊 **Futuro Analista de Banco de Dados e Dados (Pandas + Power BI)**.  
+
 ---
+
 🛠️ **Tecnologias e Ferramentas**
 
 - **Linguagens**: Python, JavaScript, TypeScript, C, SQL  
-- **Frameworks e Bibliotecas**: Flask, React, Vue.js  
+- **Frameworks e Bibliotecas**: Flask, React, Vue.js, Pandas  
 - **Banco de Dados**: MySQL  
 - **Frontend**: HTML, CSS  
 - **Controle de Versão**: Git, GitHub  
-- **Data Analytics**: Power BI  
-- **Outros conhecimentos**: Desenvolvimento web, Testes de software, APIs, boas práticas de desenvolvimento
+- **Data Analytics**: Power BI, Pandas  
+- **Outros conhecimentos**: Desenvolvimento web, Testes de software, APIs, boas práticas de desenvolvimento  
 
 ---
 
@@ -72,6 +75,7 @@
 - Evoluir como desenvolvedor **fullstack**.  
 - Aprofundar conhecimentos em **banco de dados** e **análise de dados**.  
 - Contribuir em projetos e criar soluções inovadoras.  
+
 ---
 
 ## 📊 Minhas Skills em Progresso
@@ -89,6 +93,9 @@
 
 **MySQL**  
 ![MySQL](https://progress-bar.dev/65/?title=Domínio&width=300)
+
+**Pandas**  
+![Pandas](https://progress-bar.dev/70/?title=Domínio&width=300)
 
 **Power BI**  
 ![Power BI](https://progress-bar.dev/60/?title=Domínio&width=300)
