@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### 💻 Linguagens & Frameworks  
+### 💻 Linguagens & Frameworks & Bibliotecas 
 <div style="display: flex; gap: 15px; justify-content: center; align-items: center; padding: 10px;">
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" />
