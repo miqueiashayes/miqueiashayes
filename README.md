@@ -23,18 +23,18 @@
 </div>
 
 
-### 🗄️ Banco de Dados  
+### Banco de Dados  
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" />
 </p>
 
-### 📊 Data Analytics  
+### Data Analytics  
 <p>
   <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="80" />
 </p>
 
-### 🛠️ Ferramentas  
+### Ferramentas  
 <p>
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" />
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" />
@@ -44,7 +44,7 @@
 
 ---
 
-## 📚 Sobre mim
+## Sobre mim
 
 - 💼 **Desenvolvedor Full Stack**: Experiência com **Python (Flask, Pandas)**, **C (Programação competitiva)** no backend e **JavaScript (React/Vue)** no frontend, além de domínio de **HTML**, **CSS** e **MySQL**.  
 - 🎓 **Estudante dedicado**: Sempre buscando aprender mais, melhorar minhas práticas e aplicar o que aprendo em projetos reais.  
@@ -52,7 +52,7 @@
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 - **Linguagens**: Python, JavaScript, C  
 - **Frameworks e Bibliotecas**: Flask, React, Vue.js, Pandas  
@@ -64,7 +64,7 @@
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 - Evoluir como desenvolvedor **fullstack**  
 - Aprofundar conhecimentos em **banco de dados** e **análise de dados**  
 - Contribuir em projetos e criar soluções inovadoras  
@@ -74,12 +74,12 @@
 
 ---
 
-### ⚙️ GitHub Metrics
+### GitHub Metrics
 ![GitHub metrics](https://github-readme-streak-stats.herokuapp.com/?user=miqueiash&theme=tokyonight)
 
 ---
 
-## 📬 Contato
+## Contato
 
 - **E-mail**: [miqueiasgoncalvessantos3@gmail.com](mailto:miqueiasgoncalvessantos3@gmail.com)
 
