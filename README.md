@@ -71,9 +71,7 @@
 
 ---
 
-## 📊 Minhas Skills
 
----
 
 ---
 <div>
