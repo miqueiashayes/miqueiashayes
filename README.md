@@ -6,7 +6,7 @@
 
 ---
 
-##  Habilidades
+## 🚀 Habilidades
 
 <div align="center">
 
@@ -23,12 +23,12 @@
 </div>
 
 
-### Banco de Dados  
+### 🗄️ Banco de Dados  
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" />
 </p>
 
-### Data Analytics  
+### 📊 Data Analytics  
 <p>
   <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="80" />
@@ -42,56 +42,58 @@
 
 </div>
 
-
 ---
 
-📚 **Sobre mim**
+## 📚 Sobre mim
 
-- 💼 **Desenvolvedor Full Stack**: Experiência com **Python (Flask, Pandas)**, **C(Programação competitiva)**, no backend e **JavaScript (React/Vue)** no frontend, além de domínio de **HTML**, **CSS** e **MySQL**.  
+- 💼 **Desenvolvedor Full Stack**: Experiência com **Python (Flask, Pandas)**, **C (Programação competitiva)** no backend e **JavaScript (React/Vue)** no frontend, além de domínio de **HTML**, **CSS** e **MySQL**.  
 - 🎓 **Estudante dedicado**: Sempre buscando aprender mais, melhorar minhas práticas e aplicar o que aprendo em projetos reais.  
 - 📊 **Futuro Analista de Banco de Dados e Dados**.  
 
 ---
 
-🛠️ **Tecnologias e Ferramentas**
+## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens**: Python, JavaScript, C.  
+- **Linguagens**: Python, JavaScript, C  
 - **Frameworks e Bibliotecas**: Flask, React, Vue.js, Pandas  
 - **Banco de Dados**: MySQL  
 - **Frontend**: HTML, CSS  
 - **Controle de Versão**: Git, GitHub  
 - **Data Analytics**: Python, Power BI e Pandas  
-- **Outros conhecimentos**: Desenvolvimento web, Testes de software, APIs,automações e boas práticas de desenvolvimento  
-
----
-
-📬 **Contato**
-
-- **E-mail**: [miqueiasgoncalvessantos3@gmail.com](mailto:miqueiasgoncalvessantos3@gmail.com)
+- **Outros conhecimentos**: Desenvolvimento web, Testes de software, APIs, automações e boas práticas de desenvolvimento  
 
 ---
 
 ## 🎯 Objetivos
-- Evoluir como desenvolvedor **fullstack**.  
-- Aprofundar conhecimentos em **banco de dados** e **análise de dados**.  
-- Contribuir em projetos e criar soluções inovadoras.  
+- Evoluir como desenvolvedor **fullstack**  
+- Aprofundar conhecimentos em **banco de dados** e **análise de dados**  
+- Contribuir em projetos e criar soluções inovadoras  
+
 ---
 
 ## 📊 Minhas Skills
 
 <div align="center">
 
-| Tecnologia                | Nível de Domínio |
-|----------------------------|------------------|
-| **Python**              | ██████████░░ 85% |
-| **JavaScript / React / Vue** | ███████░░░ 65% |
-| **Flask**                | ███████░░░░ 70% |
-| **MySQL**              | ██████░░░░░ 65% |
-| **Pandas**               | ███████░░░70% |
-| **Power BI**         | ██████░░░░░ 75% |
-| **HTML / CSS**        | ██████████░░ 85% |
 
 </div>
 
 ---
 
+## 📬 Contato
+
+- **E-mail**: [miqueiasgoncalvessantos3@gmail.com](mailto:miqueiasgoncalvessantos3@gmail.com)
+
+---
+
+## 🟩 Gráfico de Contribuições
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miqueiash&bg_color=0d1117&color=00ff7f&line=00ff7f&point=1aff1a&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+<div align="center">
+  <strong>“A prática constante transforma lógica em habilidade.”</strong>
+</div>
