@@ -73,28 +73,8 @@
 
 ## 📊 Minhas Skills
 
-<div align="center">
-
-# 👋 Hello World, I'm Miqueias! Be very welcome 😄
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/miqueiash">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miqueiash&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/miqueiash">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miqueiash&layout=compact&langs_count=7&theme=tokyonight"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
 ---
 
-### 🌐 Connect with me:
 ---
 <div>
   <a href="https://www.youtube.com/@miqueiash" target="_blank">
