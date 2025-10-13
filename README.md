@@ -98,12 +98,6 @@
 
 ---
 
-### 🚀 About Me  
-Sou um desenvolvedor apaixonado por tecnologia, café ☕️ e resolver problemas com código.  
-Atualmente estudando **Análise e Desenvolvimento de Sistemas**, e sempre explorando novas ferramentas no mundo da programação.
-
----
-
 ## 📬 Contato
 
 - **E-mail**: [miqueiasgoncalvessantos3@gmail.com](mailto:miqueiasgoncalvessantos3@gmail.com)
