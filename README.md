@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Habilidades
+## Habilidades
 
 <div align="center">
 
