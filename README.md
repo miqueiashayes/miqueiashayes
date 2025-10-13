@@ -22,7 +22,6 @@
   <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" />
 </div>
 
-
 ### 🗄️ Banco de Dados  
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" />
@@ -76,6 +75,7 @@
 <div align="center">
 
 
+
 </div>
 
 ---
@@ -86,10 +86,10 @@
 
 ---
 
-## 🟩 Gráfico de Contribuições
+## 🟩 Gráfico de Contribuições (Estilo GitHub)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miqueiash&bg_color=0d1117&color=00ff7f&line=00ff7f&point=1aff1a&area=true&hide_border=true" alt="GitHub Activity Graph" />
+<div align="center" style="background-color:#0d1117; padding:25px; border-radius:12px;">
+  <img src="IMG_2559.jpeg" alt="GitHub Contribution Graph" width="600" style="border-radius:10px;" />
 </div>
 
 ---
