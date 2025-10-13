@@ -3,7 +3,8 @@
   Sou Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> e Desenvolvedor FullStack. <br>
   Apaixonado por <strong>desenvolvimento web</strong>, <strong>criação de sistemas</strong> e <strong>análise de dados</strong>.
 </p>
-
+IMG_2559.jpeg
+src="IMG_2559.jpeg
 ---
 
 ## 🚀 Habilidades
