@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Miqueias! ☕️👨🏾‍💻</h1>
+<h1 align="center">Olá, eu sou o Miqueias!☕️👨🏾‍💻</h1>
 <p align="center">
   Sou Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> e Desenvolvedor FullStack. <br>
   Apaixonado por <strong>desenvolvimento web</strong>, <strong>criação de sistemas</strong> e <strong>análise de dados</strong>.
@@ -21,6 +21,7 @@
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" />
   <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" />
 </div>
+
 
 ### 🗄️ Banco de Dados  
 <p>
@@ -51,6 +52,18 @@
 
 ---
 
+## 🛠️ Tecnologias e Ferramentas
+
+- **Linguagens**: Python, JavaScript, C  
+- **Frameworks e Bibliotecas**: Flask, React, Vue.js, Pandas  
+- **Banco de Dados**: MySQL  
+- **Frontend**: HTML, CSS  
+- **Controle de Versão**: Git, GitHub  
+- **Data Analytics**: Python, Power BI e Pandas  
+- **Outros conhecimentos**: Desenvolvimento web, Testes de software, APIs, automações e boas práticas de desenvolvimento  
+
+---
+
 ## 🎯 Objetivos
 - Evoluir como desenvolvedor **fullstack**  
 - Aprofundar conhecimentos em **banco de dados** e **análise de dados**  
@@ -62,17 +75,6 @@
 
 <div align="center">
 
-| Tecnologia                     | Nível de Domínio |
-|-------------------------------:|:-----------------|
-| **Python**                     | ██████████░░ 85% |
-| **JavaScript / React / Vue**   | ███████░░░ 65%   |
-| **Flask**                      | ███████░░░░ 70%  |
-| **MySQL**                      | ██████░░░░░ 65%  |
-| **Pandas**                     | ███████░░░ 70%   |
-| **Power BI**                   | ██████░░░░░ 75%  |
-| **HTML / CSS**                 | ██████████░░ 85% |
-
-</div>
 
 ---
 
@@ -82,11 +84,10 @@
 
 ---
 
-## 🟩 Gráfico de Contribuições (estático, igual à sua imagem)
+## 🟩 Gráfico de Contribuições
 
-<div align="center" style="background-color:#0d1117; padding:22px; border-radius:12px; display: inline-block;">
-  <!-- Caminho relativo: ./assets/contribution-graph.png -->
-  <img src="./assets/contribution-graph.png" alt="Contribution Graph" width="680" style="display:block; border-radius:10px;" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miqueiash&bg_color=0d1117&color=00ff7f&line=00ff7f&point=1aff1a&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
