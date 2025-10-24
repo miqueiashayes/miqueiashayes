@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Miqueias!☕️👨🏾‍💻</h1>
+<h1 align="center">Olá, eu sou o Miqueias!</h1>
 <p align="center">
   Sou Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> e Desenvolvedor FullStack. <br>
   Apaixonado por <strong>desenvolvimento web</strong>, <strong>criação de sistemas</strong> e <strong>análise de dados</strong>.
