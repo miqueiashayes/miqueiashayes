@@ -86,9 +86,6 @@
 ---
 
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miqueiash&bg_color=0d1117&color=00ff7f&line=00ff7f&point=1aff1a&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
 
 ---
 
