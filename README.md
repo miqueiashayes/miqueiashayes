@@ -6,8 +6,8 @@
 
 ---
 
-Linguagens & Frameworks & Bibliotecas 
-<div style="display: flex; gap: 15px; justify-content: center; align-items: center; padding: 10px;">
+### Linguagens & Frameworks & Bibliotecas 
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" />
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" />
@@ -40,9 +40,9 @@ Linguagens & Frameworks & Bibliotecas
 
 ## Sobre mim
 
-- 💼 **Desenvolvedor Full Stack**: Experiência com **Python (Flask, Pandas)**, **C (Programação competitiva)** no backend e **JavaScript (React/Vue)** no frontend, além de domínio de **HTML**, **CSS** e **MySQL**.  
-- 🎓 **Estudante dedicado**: Sempre buscando aprender mais, melhorar minhas práticas e aplicar o que aprendo em projetos reais.  
-- 📊 **Futuro Analista de Banco de Dados e Dados**.  
+- **Desenvolvedor Full Stack**: Experiência com **Python (Flask, Pandas)**, **C (Programação competitiva)** no backend e **JavaScript (React/Vue)** no frontend, além de domínio de **HTML**, **CSS** e **MySQL**.  
+- **Estudante dedicado**: Sempre buscando aprender mais, melhorar minhas práticas e aplicar o que aprendo em projetos reais.  
+- **Futuro Analista de Banco de Dados e Dados**.  
 
 ---
 
