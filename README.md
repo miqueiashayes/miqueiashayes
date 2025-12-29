@@ -14,26 +14,24 @@ Linguagens & Frameworks & Bibliotecas
   <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="50" />
   <img src="https://skillicons.dev/icons?i=django" alt="Django" width="50" />
   <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" />
-</div>
 
-### 🗄️ Banco de Dados  
+### Banco de Dados  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" />
   <img src="https://img.icons8.com/color/48/sql.png" alt="SQL" width="50" />
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel" width="50" />
 </p>
 
-### 📊 Data Analytics  
+###  Data Analytics  
 <p align="center">
   <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="80" />
 </p>
 
-### 🛠️ Ferramentas  
+###  Ferramentas  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" />
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" />
-  <img src="https://img.shields.io/badge/Adsoft-ERP-blue?style=for-the-badge" alt="Adsoft ERP" />
 </p>
 
 </div>
