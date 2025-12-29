@@ -49,19 +49,12 @@
 ## Tecnologias e Ferramentas
 
 - **Linguagens**: Python, JavaScript, C  
-- **Frameworks e Bibliotecas**: Flask, React, Vue.js, Pandas  
-- **Banco de Dados**: MySQL  
-- **Frontend**: HTML, CSS  
+- **Frameworks e Bibliotecas**: Flask, Pandas e Django  
+- **Banco de Dados**: MySQL, SQL e Excel 
+- **Frontend**: HTML, CSS e JS. 
 - **Controle de Versão**: Git, GitHub  
 - **Data Analytics**: Python, Power BI e Pandas  
-- **Outros conhecimentos**: Desenvolvimento web, Testes de software, APIs, automações e boas práticas de desenvolvimento  
-
----
-
-## Objetivos
-- Evoluir como desenvolvedor **fullstack**  
-- Aprofundar conhecimentos em **banco de dados** e **análise de dados**  
-- Contribuir em projetos e criar soluções inovadoras  
+- **Outros conhecimentos**: Desenvolvimento web, Testes de software, APIs, automações e boas práticas de desenvolvimento.
 
 ---
 
