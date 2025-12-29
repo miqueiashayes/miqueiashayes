@@ -14,9 +14,6 @@
 <div style="display: flex; gap: 15px; justify-content: center; align-items: center; padding: 10px;">
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" />
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" />
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" />
-  <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="50" />
   <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="50" />
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" />
   <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" />
