@@ -10,46 +10,42 @@ Desenvolvedor Backend em Formação | Full-Stack | Análise de Dados
 
 Minha paixão por tecnologia começou cedo, impulsionada pela curiosidade de entender como os sistemas funcionam e como podem ser aprimorados.
 
-Esse interesse se fortaleceu durante os dois períodos em que estudei Interdisciplinar em Ciências e suas Tecnologias na UFSB, ampliando minha visão sobre inovação e aplicação prática do conhecimento.
+Esse interesse se fortaleceu durante os dois períodos em que estudei Interdisciplinar em Ciências e suas Tecnologias na UFSB, experiência que ampliou minha visão sobre inovação e aplicação prática do conhecimento.
 
-Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, com foco em Desenvolvimento Full-Stack e Análise de Dados. Busco criar soluções que integrem tecnologia, organização e eficiência.
+Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, com foco em Desenvolvimento Full-Stack e Análise de Dados. Busco criar soluções que integrem tecnologia, organização e eficiência, aplicando conceitos de automação, construção de sistemas web e tratamento de dados.
 
-Sou formado como Operador de Processos Industriais pelo SENAI, com visão voltada para eficiência operacional, melhoria contínua e otimização de processos.
+Sou formado como Operador de Processos Industriais pelo SENAI, formação que me proporcionou uma visão prática sobre eficiência operacional, melhoria contínua e otimização de processos — sempre alinhadas à evolução tecnológica.
 
-Atuo também como Assistente de Escritório com experiência em rotinas financeiras e Sistemas ERP (Adsoft / GOL).
+Atuo também como Assistente de Escritório, com foco em rotinas financeiras, faturamento e suporte ao setor de vendas, sendo responsável pelo controle de pagamentos e recebimentos, emissão de notas fiscais e organização de processos administrativos, com experiência em Sistemas ERP (Adsoft / GOL).
 
 ---
-
-## Tecnologias e Ferramentas
 
 ## Tecnologias e Ferramentas
 
 ### Backend
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,cpp" />
 </p>
+
+C# • .NET • Python • C++ (Programação Competitiva)
 
 ---
 
 ### Desenvolvimento Web
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
+
+HTML • CSS • JavaScript
 
 ---
 
 ### Banco de Dados
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-MySQL • PostgreSQL • SQL
+MySQL • SQL • Modelagem de Dados
 
 ---
 
@@ -61,16 +57,11 @@ MySQL • PostgreSQL • SQL
   <!-- Power BI -->
   <img src="https://img.icons8.com/color/48/power-bi.png" height="40"/>
 </p>
-
-Excel • Power BI • Análise de Dados • Dashboards • ETL
-
 ---
 
 ### Sistemas Empresariais
 
 ERP (Adsoft / GOL)  
 Gestão Empresarial  
-Automação de Processos Administrativos
-
-
+Automação de Processos Administrativos  
 
