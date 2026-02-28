@@ -72,13 +72,5 @@ ERP (Adsoft / GOL)
 Gestão Empresarial  
 Automação de Processos Administrativos
 
-## Objetivo Profissional
 
-Desenvolver soluções robustas e escaláveis, integrando backend sólido, organização de processos e inteligência de dados.
 
----
-
-## Contato
-
-LinkedIn:  
-Email:  
