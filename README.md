@@ -1,7 +1,7 @@
 <h1 align="center">Miquéias Gonçalves Santos</h1>
 
 <p align="center">
-Desenvolvedor Backend em Formação | Full-Stack | Análise de Dados
+Desenvolvedor Backend em Formação |Web| Análise de Dados
 </p>
 
 ---
