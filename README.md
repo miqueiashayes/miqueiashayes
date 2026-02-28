@@ -22,41 +22,47 @@ Atuo também como Assistente de Escritório com experiência em rotinas financei
 
 ## Tecnologias e Ferramentas
 
+## Tecnologias e Ferramentas
+
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,cpp" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
 </p>
-
-C# • .NET • Python • C++
 
 ---
 
 ### Desenvolvimento Web
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
 </p>
-
-HTML • CSS • JavaScript
 
 ---
 
 ### Banco de Dados
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
 </p>
 
-MySQL • PostgreSQL • SQL • Modelagem de Dados
+MySQL • PostgreSQL • SQL
 
 ---
 
 ### Análise de Dados e BI
 <p>
-  <img src="https://skillicons.dev/icons?i=powerbi" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="40" />
+  <!-- Excel -->
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40"/>
+
+  <!-- Power BI -->
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="40"/>
 </p>
 
-Power BI • Excel • Análise de Dados • Dashboards • ETL
+Excel • Power BI • Análise de Dados • Dashboards • ETL
 
 ---
 
@@ -64,9 +70,7 @@ Power BI • Excel • Análise de Dados • Dashboards • ETL
 
 ERP (Adsoft / GOL)  
 Gestão Empresarial  
-Automação de Processos Administrativos  
-
----
+Automação de Processos Administrativos
 
 ## Objetivo Profissional
 
