@@ -1,81 +1,78 @@
-<h1 align="center">Olá, eu sou o Miqueias!</h1>
+<h1 align="center">Miquéias Gonçalves Santos</h1>
+
 <p align="center">
-  Sou Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> e Desenvolvedor FullStack. <br>
-  Apaixonado por <strong>desenvolvimento web</strong>, <strong>criação de sistemas</strong> e <strong>análise de dados</strong>.
+Desenvolvedor Backend em Formação | Full-Stack | Análise de Dados
 </p>
 
 ---
 
-### Linguagens & Frameworks & Bibliotecas 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" />
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" />
-  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="50" />
-  <img src="https://skillicons.dev/icons?i=django" alt="Django" width="50" />
-  <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" />
+## Sobre Mim
 
-### Banco de Dados  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" />
-  <img src="https://img.icons8.com/color/48/sql.png" alt="SQL" width="50" />
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel" width="50" />
-</p>
+Minha paixão por tecnologia começou cedo, impulsionada pela curiosidade de entender como os sistemas funcionam e como podem ser aprimorados.
 
-###  Data Analytics  
-<p align="center">
-  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="80" />
-</p>
+Esse interesse se fortaleceu durante os dois períodos em que estudei Interdisciplinar em Ciências e suas Tecnologias na UFSB, experiência que ampliou minha visão sobre inovação e aplicação prática do conhecimento.
 
-###  Ferramentas  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" />
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" />
-</p>
+Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, com foco em Desenvolvimento Full-Stack e Análise de Dados. Busco criar soluções que integrem tecnologia, organização e eficiência, aplicando conceitos de automação, construção de sistemas web e tratamento de dados.
 
-</div>
+Sou formado como Operador de Processos Industriais pelo SENAI, formação que me proporcionou uma visão prática sobre eficiência operacional, melhoria contínua e otimização de processos — sempre alinhadas à evolução tecnológica.
 
----
-
-## Sobre mim
-
-- **Desenvolvedor Full Stack**: Experiência com **Python (Flask, Pandas)**, **C (Programação competitiva)** no backend e **JavaScript (React/Vue)** no frontend, além de domínio de **HTML**, **CSS** e **MySQL**.  
-- **Estudante dedicado**: Sempre buscando aprender mais, melhorar minhas práticas e aplicar o que aprendo em projetos reais.  
-- **Futuro Analista de Banco de Dados e Dados**.  
+Atuo também como Assistente de Escritório, com foco em rotinas financeiras, faturamento e suporte ao setor de vendas, sendo responsável pelo controle de pagamentos e recebimentos, emissão de notas fiscais e organização de processos administrativos, com experiência em Sistemas ERP (Adsoft / GOL).
 
 ---
 
 ## Tecnologias e Ferramentas
 
-- **Linguagens**: Python, JavaScript, C  
-- **Frameworks e Bibliotecas**: Flask, Pandas e Django  
-- **Banco de Dados**: MySQL, SQL e Excel 
-- **Frontend**: HTML, CSS e JS. 
-- **Controle de Versão**: Git, GitHub  
-- **Data Analytics**: Python, Power BI e Pandas  
-- **Outros conhecimentos**: Desenvolvimento web, Testes de software, APIs, automações e boas práticas de desenvolvimento.
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,cpp" />
+</p>
+
+C# • .NET • Python • C++ (Programação Competitiva)
 
 ---
 
+### Desenvolvimento Web
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+HTML • CSS • JavaScript
 
 ---
 
-### GitHub Metrics
-![GitHub metrics](https://github-readme-streak-stats.herokuapp.com/?user=miqueiash&theme=tokyonight)
+### Banco de Dados
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+MySQL • SQL • Modelagem de Dados
+
+---
+
+### Análise de Dados e BI
+<p>
+  <img src="https://skillicons.dev/icons?i=powerbi" />
+</p>
+
+Power BI • Tratamento de Dados • Dashboards • Extração e Manipulação de Dados
+
+---
+
+### Sistemas Empresariais
+
+ERP (Adsoft / GOL)  
+Gestão Empresarial  
+Automação de Processos Administrativos  
+
+---
+
+## Objetivo Profissional
+
+Desenvolver soluções robustas e escaláveis, integrando backend sólido, organização de processos e inteligência de dados, contribuindo para eficiência operacional e crescimento estratégico das organizações.
 
 ---
 
 ## Contato
 
-- **E-mail**: [miqueiasgoncalvessantos3@gmail.com](mailto:miqueiasgoncalvessantos3@gmail.com)
-
----
-
-
-
----
-
-<div align="center">
-  <strong>“A prática constante transforma lógica em habilidade.”</strong>
-</div>
+LinkedIn:  
+Email:  
