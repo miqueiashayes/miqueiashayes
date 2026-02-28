@@ -42,12 +42,10 @@ HTML • CSS • JavaScript
 
 ### Banco de Dados
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlserver" />
 </p>
 
-MySQL • SQL • Modelagem de Dados
-
----
+MySQL • PostgreSQL • SQL Server • SQL • Modelagem de Dados
 
 ### Análise de Dados e BI
 <p>
