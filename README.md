@@ -10,13 +10,13 @@ Desenvolvedor Backend em Formação | Full-Stack | Análise de Dados
 
 Minha paixão por tecnologia começou cedo, impulsionada pela curiosidade de entender como os sistemas funcionam e como podem ser aprimorados.
 
-Esse interesse se fortaleceu durante os dois períodos em que estudei Interdisciplinar em Ciências e suas Tecnologias na UFSB, experiência que ampliou minha visão sobre inovação e aplicação prática do conhecimento.
+Esse interesse se fortaleceu durante os dois períodos em que estudei Interdisciplinar em Ciências e suas Tecnologias na UFSB, ampliando minha visão sobre inovação e aplicação prática do conhecimento.
 
-Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, com foco em Desenvolvimento Full-Stack e Análise de Dados. Busco criar soluções que integrem tecnologia, organização e eficiência, aplicando conceitos de automação, construção de sistemas web e tratamento de dados.
+Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, com foco em Desenvolvimento Full-Stack e Análise de Dados. Busco criar soluções que integrem tecnologia, organização e eficiência.
 
-Sou formado como Operador de Processos Industriais pelo SENAI, formação que me proporcionou uma visão prática sobre eficiência operacional, melhoria contínua e otimização de processos — sempre alinhadas à evolução tecnológica.
+Sou formado como Operador de Processos Industriais pelo SENAI, com visão voltada para eficiência operacional, melhoria contínua e otimização de processos.
 
-Atuo também como Assistente de Escritório, com foco em rotinas financeiras, faturamento e suporte ao setor de vendas, sendo responsável pelo controle de pagamentos e recebimentos, emissão de notas fiscais e organização de processos administrativos, com experiência em Sistemas ERP (Adsoft / GOL).
+Atuo também como Assistente de Escritório com experiência em rotinas financeiras e Sistemas ERP (Adsoft / GOL).
 
 ---
 
@@ -27,7 +27,7 @@ Atuo também como Assistente de Escritório, com foco em rotinas financeiras, fa
   <img src="https://skillicons.dev/icons?i=cs,dotnet,python,cpp" />
 </p>
 
-C# • .NET • Python • C++ (Programação Competitiva)
+C# • .NET • Python • C++
 
 ---
 
@@ -42,19 +42,21 @@ HTML • CSS • JavaScript
 
 ### Banco de Dados
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
-MySQL • SQL • Modelagem de Dados
+MySQL • PostgreSQL • SQL • Modelagem de Dados
 
 ---
 
 ### Análise de Dados e BI
 <p>
   <img src="https://skillicons.dev/icons?i=powerbi" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="40" />
 </p>
 
-Power BI • Tratamento de Dados • Dashboards • Extração e Manipulação de Dados
+Power BI • Excel • Análise de Dados • Dashboards • ETL
 
 ---
 
@@ -68,7 +70,7 @@ Automação de Processos Administrativos
 
 ## Objetivo Profissional
 
-Desenvolver soluções robustas e escaláveis, integrando backend sólido, organização de processos e inteligência de dados, contribuindo para eficiência operacional e crescimento estratégico das organizações.
+Desenvolver soluções robustas e escaláveis, integrando backend sólido, organização de processos e inteligência de dados.
 
 ---
 
