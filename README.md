@@ -35,10 +35,5 @@ HTML • CSS • JavaScript • TypeScript • React • Node.js • Python • 
   <img src="https://img.icons8.com/color/48/power-bi.png" height="40"/>
 </p>
 
-Excel • Power BI • SQL • Análise de Dados
 
----
 
-## Infraestrutura & Sistemas
-
-Infraestrutura de TI • ERP • Suporte Corporativo • Redes • Automação de Processos
