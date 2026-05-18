@@ -1,7 +1,7 @@
 <h1 align="center">Miquéias Gonçalves Santos</h1>
 
 <p align="center">
-Analista de Suporte de TI N1/N2 • Desenvolvedor Web • Infraestrutura • Dados
+Analista de Suporte de TI N1/N2 / Desenvolvedor Web / Infraestrutura / Dados
 </p>
 
 ---
@@ -13,7 +13,6 @@ Atualmente sou Analista de Suporte de TI N1/N2 na Reed Technology, trabalhando c
 
 Também sou um dos fundadores da Axton, empresa voltada para soluções tecnológicas, desenvolvimento de software e suporte de TI para empresas.
 
-Tenho experiência com ambientes corporativos, sistemas ERP, infraestrutura, automação de processos e suporte técnico.
 
 ---
 
