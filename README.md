@@ -9,7 +9,7 @@ Analista de Suporte de TI N1/N2 • Desenvolvedor Web • Infraestrutura • Dad
 ## Sobre Mim
 Graduando em de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento web, infraestrutura de TI e análise de dados.
 
-Atualmente atuo como Analista de Suporte de TI N1/N2 na Reed Technology, trabalhando com suporte corporativo, infraestrutura, resolução de incidentes e sustentação de ambientes empresariais.
+Atualmente sou Analista de Suporte de TI N1/N2 na Reed Technology, trabalhando com suporte corporativo, infraestrutura, resolução de incidentes e sustentação de ambientes empresariais.
 
 Também sou um dos fundadores da Axton, empresa voltada para soluções tecnológicas, desenvolvimento de software e suporte de TI para empresas.
 
