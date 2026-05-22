@@ -4,7 +4,7 @@
 Analista de Suporte de TI N1/N2 / Desenvolvedor Web / Infraestrutura / Dados
 </p>
 
----
+
 
 ## Sobre Mim
 Graduando em de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento web, infraestrutura de TI e análise de dados.
@@ -14,7 +14,7 @@ Atualmente sou Analista de Suporte de TI N1/N2 na Reed Technology, trabalhando c
 Também sou um dos fundadores da Axton, empresa voltada para soluções tecnológicas, desenvolvimento de software e suporte de TI para empresas.
 
 
----
+
 
 ## Stack Principal
 
@@ -24,7 +24,7 @@ Também sou um dos fundadores da Axton, empresa voltada para soluções tecnoló
 
 HTML • CSS • JavaScript • TypeScript • React • Node.js • Python • MySQL • Docker • Git
 
----
+
 
 ## Dados & BI
 
