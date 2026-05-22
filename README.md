@@ -16,7 +16,6 @@ Também sou um dos fundadores da Axton, empresa voltada para soluções tecnoló
 
 
 
-## Stack Principal
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,mysql,docker,git" />
@@ -26,7 +25,6 @@ HTML • CSS • JavaScript • TypeScript • React • Node.js • Python • 
 
 
 
-## Dados & BI
 
 <p>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40"/>
