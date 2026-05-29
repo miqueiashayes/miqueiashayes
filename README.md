@@ -13,25 +13,13 @@ Tecnologia, inovação e performance aplicadas à transformação digital.
 
 ## Sobre Mim
 
-Sou profissional da área de Tecnologia da Informação, atuando atualmente como Suporte de TI na Reed Technology, com experiência em sustentação de ambientes corporativos, suporte técnico N1/N2, infraestrutura, redes, troubleshooting, manutenção de sistemas e resolução de incidentes em ambientes críticos.
+Sou Profissional da área de Tecnologia da Informação, atuando como Suporte de TI na Reed Technology, com experiência em sustentação de ambientes corporativos, suporte técnico N1/N2, infraestrutura, redes, manutenção de sistemas, troubleshooting e resolução de incidentes em ambientes críticos.
 
-Atuo diretamente na continuidade operacional e suporte tecnológico para órgãos públicos da Prefeitura e do Estado da Bahia, garantindo estabilidade, desempenho e eficiência nos ambientes de TI.
+Atuo diretamente no suporte e continuidade operacional para órgãos públicos da Prefeitura e do Estado da Bahia, garantindo estabilidade, desempenho e eficiência nos ambientes tecnológicos.
 
-Também sou fundador da Axton System Tech, startup voltada para soluções em:
-- Suporte de TI
-- Infraestrutura
-- Automação
-- Desenvolvimento de Sistemas
-- Banco de Dados
-- Análise de Dados
-- Transformação Digital
+Fundador da Axton System Tech, startup voltada para soluções em suporte de TI, infraestrutura, automação, desenvolvimento de sistemas, análise de dados e transformação digital, com foco em inovação, performance e tecnologia aplicada aos negócios.
 
-Tenho foco constante na evolução profissional, buscando ampliar conhecimentos em:
-- Cloud Computing
-- Cibersegurança
-- Desenvolvimento Backend
-- Infraestrutura Moderna
-- Soluções de Alta Performance
+Em constante evolução na área de tecnologia, buscando ampliar conhecimentos em cloud computing, cibersegurança, desenvolvimento e soluções modernas voltadas à alta performance operacional.
 
 ---
 
@@ -60,42 +48,6 @@ Tenho foco constante na evolução profissional, buscando ampliar conhecimentos 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## Contato
-
-<p align="left">
-
-<a href="mailto:seuemail@email.com">
-  <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/SEULINKEDIN/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/SEUUSUARIO" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</p>
-
----
-
-## Sistemas Operacionais e Infraestrutura
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=windows,linux" />
-</p>
-
----
-
-<div align="center">
-
-![Snake animation](https://github.com/SEUUSUARIO/SEUUSUARIO/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 ```
