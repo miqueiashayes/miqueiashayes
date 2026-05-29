@@ -21,7 +21,7 @@ O meu principal foco de Projetos são voltados a:
 
 ---
 
-## Tecnologias
+## Tecnologias 
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,postgres,mysql,git,vscode" />
