@@ -1,8 +1,12 @@
-```md id="4e9tv5"
+```md id="76j8xq"
 <h1 align="center">Miquéias Gonçalves Santos</h1>
 
 <p align="center">
-Profissional de Tecnologia da Informação | Infraestrutura | Backend | Análise de Dados
+Profissional de Tecnologia da Informação | Infraestrutura | Backend | Banco de Dados | Análise de Dados
+</p>
+
+<p align="center">
+  Tecnologia, dados e inovação para transformar ideias em soluções.
 </p>
 
 ---
@@ -31,9 +35,19 @@ Em constante evolução na área de tecnologia, buscando ampliar conhecimentos e
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## Sequência de Contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -42,22 +56,26 @@ Em constante evolução na área de tecnologia, buscando ampliar conhecimentos e
 ## Contato
 
 <p align="left">
-  <a href="mailto:seuemail@email.com">
-    <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
 
-  <a href="https://www.linkedin.com/in/SEULINKEDIN/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+<a href="mailto:seuemail@email.com">
+  <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-  <a href="https://github.com/SEUUSUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+<a href="https://www.linkedin.com/in/SEULINKEDIN/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/SEUUSUARIO" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
 </p>
 
 ---
 
-<p align="center">
-  Tecnologia, dados e inovação para transformar ideias em soluções.
-</p>
+<div align="center">
+
+![Snake animation](https://github.com/SEUUSUARIO/SEUUSUARIO/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 ```
