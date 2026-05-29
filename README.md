@@ -1,37 +1,15 @@
-```md id="76j8xq"
+```html
 <h1 align="center">Miquéias Gonçalves Santos</h1>
 
 <p align="center">
-Profissional de Tecnologia da Informação | Infraestrutura | Backend | Banco de Dados | Análise de Dados
+  <strong>Profissional de Tecnologia da Informação | Infraestrutura | Backend | Banco de Dados</strong>
 </p>
 
 <p align="center">
-  Tecnologia, dados e inovação para transformar ideias em soluções.
+  Tecnologia, inovação e performance aplicadas à transformação digital.
 </p>
 
----
-
-## Sobre Mim
-
-Sou Profissional da área de Tecnologia da Informação, atuando como Suporte de TI na Reed Technology, com experiência em sustentação de ambientes corporativos, suporte técnico N1/N2, infraestrutura, redes, manutenção de sistemas, troubleshooting e resolução de incidentes em ambientes críticos.
-
-Atuo diretamente no suporte e continuidade operacional para órgãos públicos da Prefeitura e do Estado da Bahia, garantindo estabilidade, desempenho e eficiência nos ambientes tecnológicos.
-
-Fundador da Axton System Tech, startup voltada para soluções em suporte de TI, infraestrutura, automação, desenvolvimento de sistemas, análise de dados e transformação digital, com foco em inovação, performance e tecnologia aplicada aos negócios.
-
-Em constante evolução na área de tecnologia, buscando ampliar conhecimentos em cloud computing, cibersegurança, desenvolvimento e soluções modernas voltadas à alta performance operacional.
-
----
-
-## Tecnologias
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,postgres,mysql,git,github,vscode,linux" />
-</p>
-
----
-
-## Estatísticas GitHub
+<br>
 
 <div align="center">
 
@@ -41,9 +19,61 @@ Em constante evolução na área de tecnologia, buscando ampliar conhecimentos e
 
 </div>
 
----
+<br>
 
-## Sequência de Contribuições
+<h2> Sobre Mim</h2>
+
+<p>
+Profissional da área de Tecnologia da Informação, atuando como Suporte de TI na Reed Technology, com experiência em sustentação de ambientes corporativos, suporte técnico N1/N2, infraestrutura, redes, troubleshooting, manutenção de sistemas e resolução de incidentes em ambientes críticos.
+</p>
+
+<p>
+Atuação direta na continuidade operacional e suporte tecnológico para órgãos públicos da Prefeitura e do Estado da Bahia, garantindo estabilidade, desempenho e eficiência nos ambientes tecnológicos.
+</p>
+
+<p>
+Fundador da <strong>Axton System Tech</strong>, startup voltada para soluções em suporte de TI, infraestrutura, automação, desenvolvimento de sistemas, análise de dados e transformação digital.
+</p>
+
+<p>
+Buscando constante evolução em cloud computing, cibersegurança, backend, infraestrutura moderna e soluções de alta performance.
+</p>
+
+<br>
+
+<h2> Skills</h2>
+
+<h3> Linguagens e Desenvolvimento</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="50"/>
+  <img src="https://skillicons.dev/icons?i=css" height="50"/>
+  <img src="https://skillicons.dev/icons?i=js" height="50"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python" height="50"/>
+  <img src="https://skillicons.dev/icons?i=java" height="50"/>
+</p>
+
+<h3> Banco de Dados</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+</p>
+
+<h3> Ferramentas e Tecnologias</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="50"/>
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="50"/>
+  <img src="https://skillicons.dev/icons?i=windows" height="50"/>
+</p>
+
+<br>
+
+<h2> Sequência de Contribuições</h2>
 
 <div align="center">
 
@@ -51,14 +81,14 @@ Em constante evolução na área de tecnologia, buscando ampliar conhecimentos e
 
 </div>
 
----
+<br>
 
-## Contato
+<h2> Contato</h2>
 
 <p align="left">
 
 <a href="mailto:seuemail@email.com">
-  <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Gmail-0A66C2?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/SEULINKEDIN/" target="_blank">
@@ -71,11 +101,11 @@ Em constante evolução na área de tecnologia, buscando ampliar conhecimentos e
 
 </p>
 
----
+<br>
 
 <div align="center">
 
-![Snake animation](https://github.com/SEUUSUARIO/SEUUSUARIO/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/SEUUSUARIO/SEUUSUARIO/blob/output/github-contribution-grid-snake.svg"/>
 
 </div>
 ```
