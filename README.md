@@ -11,7 +11,7 @@ Sou Profissional da área de Tecnologia da Informação, atuando como Analista d
 Sou Fundador da Axton System Tech, startup voltada para soluções em suporte de TI, infraestrutura, automação, desenvolvimento de sistemas, análise de dados e transformação digital, com foco em inovação, performance e tecnologia aplicada aos negócios. Estou em constante evolução na área de tecnologia, buscando ampliar conhecimentos em cloud computing, cibersegurança, desenvolvimento e soluções modernas voltadas à alta performance operacional.
 
 O meu principal foco de Projetos são voltados a:
-- Desenvolvimento Web
+- Desenvolvimento de Software
 - Banco de Dados
 - SQL e PostgreSQL
 - Automação de Processos
