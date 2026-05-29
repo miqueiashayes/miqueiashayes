@@ -1,33 +1,44 @@
+```md
 <h1 align="center">Miquéias Gonçalves Santos</h1>
 
 <p align="center">
-Desenvolvedor Backend em Formação | Web | Banco de Dados | Análise de Dados
+Profissional de Tecnologia da Informação | Infraestrutura | Backend | Dados | Automação
 </p>
 
 <p align="center">
-  Tecnologia, dados e inovação para transformar ideias em soluções.
+Tecnologia, inovação e performance aplicadas à transformação digital.
 </p>
 
 ---
 
 ## Sobre Mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend, banco de dados, automação e soluções tecnológicas voltadas para eficiência operacional.
+Sou profissional da área de Tecnologia da Informação, atuando atualmente como Suporte de TI na Reed Technology, com experiência em sustentação de ambientes corporativos, suporte técnico N1/N2, infraestrutura, redes, troubleshooting, manutenção de sistemas e resolução de incidentes em ambientes críticos.
 
-Atualmente desenvolvo projetos nas áreas de:
-- Desenvolvimento Web
-- SQL e PostgreSQL
+Atuo diretamente na continuidade operacional e suporte tecnológico para órgãos públicos da Prefeitura e do Estado da Bahia, garantindo estabilidade, desempenho e eficiência nos ambientes de TI.
+
+Também sou fundador da Axton System Tech, startup voltada para soluções em:
+- Suporte de TI
+- Infraestrutura
+- Automação
+- Desenvolvimento de Sistemas
 - Banco de Dados
-- Automação de Processos
 - Análise de Dados
-- Infraestrutura e Suporte de TI
+- Transformação Digital
+
+Tenho foco constante na evolução profissional, buscando ampliar conhecimentos em:
+- Cloud Computing
+- Cibersegurança
+- Desenvolvimento Backend
+- Infraestrutura Moderna
+- Soluções de Alta Performance
 
 ---
 
 ## Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,postgres,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,postgres,mysql,git,github,vscode,linux" />
 </p>
 
 ---
@@ -74,8 +85,17 @@ Atualmente desenvolvo projetos nas áreas de:
 
 ---
 
+## Sistemas Operacionais e Infraestrutura
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=windows,linux" />
+</p>
+
+---
+
 <div align="center">
 
 ![Snake animation](https://github.com/SEUUSUARIO/SEUUSUARIO/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+```
