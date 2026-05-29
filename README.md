@@ -1,35 +1,63 @@
 <h1 align="center">Miquéias Gonçalves Santos</h1>
 
 <p align="center">
-Analista de Suporte de TI N1/N2 / Desenvolvedor Web / Infraestrutura / Dados
+Desenvolvedor Backend em Formação | Web | Análise de Dados
 </p>
 
-
+---
 
 ## Sobre Mim
-Graduando em de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento web, infraestrutura de TI e análise de dados.
 
-Atualmente sou Analista de Suporte de TI N1/N2 na Reed Technology, trabalhando com suporte corporativo, infraestrutura, resolução de incidentes e sustentação de ambientes empresariais.
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend, banco de dados, automação e soluções tecnológicas voltadas para eficiência operacional.
 
-Também sou um dos fundadores da Axton, empresa voltada para soluções tecnológicas, desenvolvimento de software e suporte de TI para empresas.
+Atualmente, desenvolvo projetos voltados para:
+- Desenvolvimento Web
+- Banco de Dados
+- SQL e PostgreSQL
+- Automação de Processos
+- Análise de Dados
+- Suporte e Infraestrutura de TI
 
+---
 
+## Tecnologias
 
-
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,mysql,docker,git" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,postgres,mysql,git,github,vscode" />
 </p>
 
-HTML • CSS • JavaScript • TypeScript • React • Node.js • Python • MySQL • Docker • Git
+---
 
+## Estatísticas GitHub
 
+<div align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<p>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40"/>
-  <img src="https://img.icons8.com/color/48/power-bi.png" height="40"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
+
+---
+
+## Contato
+
+<p align="left">
+  <a href="mailto:seuemail@email.com">
+    <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/SEULINKEDIN/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://github.com/SEUUSUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
 
+---
 
-
+<p align="center">
+  Tecnologia, dados e inovação para transformar ideias em soluções.
+</p>
