@@ -1,4 +1,4 @@
-```html
+```md id="2f8g0x"
 <h1 align="center">Miquéias Gonçalves Santos</h1>
 
 <p align="center">
@@ -9,41 +9,25 @@
   Tecnologia, inovação e performance aplicadas à transformação digital.
 </p>
 
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Infraestrutura+e+Suporte+de+TI;Backend+e+Banco+de+Dados;Cloud+Computing+e+Cibersegurança;Automação+e+Transformação+Digital&center=true&width=800&height=45&color=58A6FF&vCenter=true&size=22">
+</p>
 
-<div align="center">
+---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+## 👨‍💻 Sobre Mim
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<h2> Sobre Mim</h2>
-
-<p>
 Profissional da área de Tecnologia da Informação, atuando como Suporte de TI na Reed Technology, com experiência em sustentação de ambientes corporativos, suporte técnico N1/N2, infraestrutura, redes, troubleshooting, manutenção de sistemas e resolução de incidentes em ambientes críticos.
-</p>
 
-<p>
-Atuação direta na continuidade operacional e suporte tecnológico para órgãos públicos da Prefeitura e do Estado da Bahia, garantindo estabilidade, desempenho e eficiência nos ambientes tecnológicos.
-</p>
+Atuação direta no suporte e continuidade operacional para órgãos públicos da Prefeitura e do Estado da Bahia, garantindo estabilidade, desempenho e eficiência nos ambientes tecnológicos.
 
-<p>
-Fundador da <strong>Axton System Tech</strong>, startup voltada para soluções em suporte de TI, infraestrutura, automação, desenvolvimento de sistemas, análise de dados e transformação digital.
-</p>
+Fundador da **Axton System Tech**, startup voltada para soluções em suporte de TI, infraestrutura, automação, desenvolvimento de sistemas, análise de dados e transformação digital.
 
-<p>
-Buscando constante evolução em cloud computing, cibersegurança, backend, infraestrutura moderna e soluções de alta performance.
-</p>
+---
 
-<br>
+# 🚀 Skills
 
-<h2> Skills</h2>
-
-<h3> Linguagens e Desenvolvimento</h3>
+### 💻 Desenvolvimento
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html" height="50"/>
@@ -54,14 +38,18 @@ Buscando constante evolução em cloud computing, cibersegurança, backend, infr
   <img src="https://skillicons.dev/icons?i=java" height="50"/>
 </p>
 
-<h3> Banco de Dados</h3>
+---
+
+### 🗄️ Banco de Dados
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres" height="50"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
 </p>
 
-<h3> Ferramentas e Tecnologias</h3>
+---
+
+### ⚙️ Ferramentas e Tecnologias
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" height="50"/>
@@ -71,9 +59,21 @@ Buscando constante evolução em cloud computing, cibersegurança, backend, infr
   <img src="https://skillicons.dev/icons?i=windows" height="50"/>
 </p>
 
-<br>
+---
 
-<h2> Sequência de Contribuições</h2>
+# 📊 Estatísticas GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Sequência de Contribuições
 
 <div align="center">
 
@@ -81,9 +81,9 @@ Buscando constante evolução em cloud computing, cibersegurança, backend, infr
 
 </div>
 
-<br>
+---
 
-<h2> Contato</h2>
+# 📫 Contato
 
 <p align="left">
 
@@ -101,11 +101,11 @@ Buscando constante evolução em cloud computing, cibersegurança, backend, infr
 
 </p>
 
-<br>
+---
 
 <div align="center">
 
-<img src="https://github.com/SEUUSUARIO/SEUUSUARIO/blob/output/github-contribution-grid-snake.svg"/>
+![Snake animation](https://github.com/SEUUSUARIO/SEUUSUARIO/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 ```
