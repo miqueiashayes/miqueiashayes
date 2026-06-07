@@ -23,12 +23,9 @@ O meu principal foco de Projetos são voltados a:
 
 ---
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,postgres,mysql,git" />
+## Tecnologias
 
-  <img
-    src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"
-    width="48"
-    height="48"
-  />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,postgres,mysql,docker,git" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" align="center" />
 </p>
