@@ -1,7 +1,7 @@
 <h1 align="center">Miquéias Gonçalves Santos</h1>
 
 <p align="center">
-Desenvolvedor Backend em Formação | Web | Análise de Dados
+PROFISSIONAL DA AREA TECH - IT ANALYST & FRONTEND DEVELOPERMENT 
 </p>
 
 ---
