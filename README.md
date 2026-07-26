@@ -14,5 +14,5 @@ Sou Fundador da Axton System Tech, startup voltada para soluções em suporte de
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs, postgres,mysql,docker,git" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" align="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" align="center" />
 </p>
