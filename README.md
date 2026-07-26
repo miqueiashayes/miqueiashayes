@@ -14,12 +14,6 @@ Profissional da área de Tecnologia da Informação com foco em desenvolvimento 
 
 Sou um profissional da área de Tecnologia da Informação, atuando como Analista de TI e Desenvolvedor Full Stack. Tenho experiência em suporte técnico, infraestrutura, administração de ambientes corporativos, redes, manutenção de sistemas, troubleshooting e resolução de incidentes, sempre buscando entregar soluções eficientes, seguras e escaláveis.
 
-Além da infraestrutura, desenvolvo aplicações web, participando de todas as etapas do desenvolvimento, desde o planejamento até a implementação de soluções modernas, escaláveis e orientadas às necessidades do negócio.
-
-Atualmente curso **Análise e Desenvolvimento de Sistemas** pela **Estácio** e **Bacharelado em Ciência da Computação** pela **Anhanguera**, conciliando a formação acadêmica com a experiência prática na área de tecnologia.
-
-Busco evoluir continuamente como profissional, aprimorando minhas habilidades em desenvolvimento Full Stack, arquitetura de software, computação em nuvem e boas práticas de engenharia de software, sempre com o objetivo de criar soluções que gerem valor para pessoas e empresas.
-
 ---
 
 ## Technologies
