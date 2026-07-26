@@ -13,6 +13,6 @@ Sou Profissional da área de Tecnologia da Informação, atuando como Analista d
 Sou Fundador da Axton System Tech, startup voltada para soluções em suporte de TI, infraestrutura, automação, desenvolvimento de sistemas, análise de dados e transformação digital, com foco em inovação, performance e tecnologia aplicada aos negócios. Estou em constante evolução na área de tecnologia, buscando ampliar conhecimentos em cloud computing, cibersegurança, desenvolvimento e soluções modernas voltadas à alta performance operacional.
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,postgres,mysql,docker,git" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" align="center" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs, postgres,mysql,docker,git" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" align="48" />
 </p>
