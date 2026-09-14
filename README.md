@@ -2,17 +2,6 @@
 
 # Miquéias Santos
 
-**Product Owner | Software Developer | IT**
-
-[LinkedIn](SEU_LINKEDIN) · [Axton Systems Tech](SEU_LINKEDIN_AXTON) · [Axton Instagram](SEU_INSTAGRAM_AXTON)
-
-</div>
-
----
-
-## Terminal Profile
-
-```text
 
 
 
