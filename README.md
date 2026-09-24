@@ -1,287 +1,44 @@
-<div align="center">
+<h1 data-importer="text" align="center">MIQUÉIAS HAYES SANTOS</h1>
 
+###
 
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="60" alt="putty logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="60" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+</div>
 
+###
 
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║                     MIQUÉIAS SANTOS                     ║
-║                                                          ║
-║        IT ANALYST  •  SOFTWARE DEVELOPER                ║
-║                                                          ║
-║     SOFTWARE  •  INFRASTRUCTURE  •  NETWORKS            ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+</div>
 
-
-skills/
-│
-├── software-development/
-│   ├── JavaScript
-│   ├── TypeScript
-│   ├── Node.js
-│   ├── React.js
-│   ├── Express.js
-│   └── Vite.js
-│
-├── databases/
-│   ├── SQL
-│   └── PostgreSQL
-│
-├── infrastructure/
-│   ├── IT Infrastructure
-│   ├── Network Infrastructure
-│   ├── Network Architecture
-│   └── IT Architecture
-│
-├── networking/
-│   └── Packet Tracer
-│
-└── project-management/
-    ├── Project Planning
-    ├── Requirements
-    └── Project Management
-infra@github ~ $ cat focus.txt
-[ SOFTWARE DEVELOPMENT ]
-
-JavaScript
-TypeScript
-Node.js
-React.js
-Express.js
-Vite.js
-
-
-[ DATABASE ]
-
-SQL
-PostgreSQL
-
-
-[ INFRASTRUCTURE ]
-
-IT Infrastructure
-Network Infrastructure
-Network Architecture
-IT Architecture
-
-
-[ NETWORK ]
-
-Packet Tracer
-Network Architecture
-Network Infrastructure
-
-
-[ PROJECT MANAGEMENT ]
-
-Project Management
-Project Planning
-Requirements
-Project Organization
-infra@github ~ $ ls projects
-projects/
-│
-├── software-development/
-│   ├── JavaScript
-│   ├── TypeScript
-│   ├── Node.js
-│   ├── React.js
-│   ├── Express.js
-│   └── Vite.js
-│
-├── databases/
-│   ├── SQL
-│   └── PostgreSQL
-│
-├── infrastructure/
-│   ├── IT Infrastructure
-│   ├── Network Infrastructure
-│   ├── Network Architecture
-│   └── IT Architecture
-│
-├── networking/
-│   └── Packet Tracer
-│
-└── project-management/
-    ├── Project Planning
-    ├── Requirements
-    └── Project Management
-infra@github ~ $ cat architecture.txt
-                         TECHNOLOGY
-                             │
-              ┌──────────────┴──────────────┐
-              │                             │
-          SOFTWARE                   INFRASTRUCTURE
-              │                             │
-       ┌──────┴──────┐                ┌─────┴─────┐
-       │             │                │           │
- DEVELOPMENT      DATABASE         NETWORKS   ARCHITECTURE
-       │             │                │           │
-       │             │                │           │
- JavaScript         SQL           Packet        IT
- TypeScript         PostgreSQL    Tracer        Infrastructure
- Node.js
- React.js
- Express.js
- Vite.js
-              │
-              └──────────────┬──────────────┘
-                             │
-                    PROJECT MANAGEMENT
-                             │
-                             ▼
-                      PROJECT DELIVERY
-infra@github ~ $ cat workflow.txt
-                         PROJECT
-                            │
-                            ▼
-                     REQUIREMENTS
-                            │
-                            ▼
-                        PLANNING
-                            │
-                            ▼
-                       ARCHITECTURE
-                            │
-              ┌─────────────┴─────────────┐
-              │                           │
-              ▼                           ▼
-          SOFTWARE                  INFRASTRUCTURE
-              │                           │
-              ▼                           ▼
-        DEVELOPMENT                    NETWORK
-              │                           │
-              └─────────────┬─────────────┘
-                            │
-                            ▼
-                         TESTING
-                            │
-                            ▼
-                        DEPLOYMENT
-                            │
-                            ▼
-                        SUPPORT
-                            │
-                            ▼
-                       MAINTENANCE
-infra@github ~ $ git status
-On branch main
-
-Currently working on:
-
-[+] Software Development
-[+] JavaScript
-[+] TypeScript
-[+] Node.js
-[+] React.js
-[+] Express.js
-[+] Vite.js
-
-[+] SQL
-[+] PostgreSQL
-
-[+] IT Infrastructure
-[+] Network Infrastructure
-[+] Network Architecture
-[+] IT Architecture
-[+] Packet Tracer
-
-[+] Project Management
-[+] Project Planning
-[+] Requirements
-[+] Technology Projects
-infra@github ~ $ git log --career
-IT SUPPORT
-    │
-    ├── Technical Support
-    ├── IT Infrastructure
-    ├── Systems
-    └── Troubleshooting
-          │
-          ▼
-SOFTWARE DEVELOPMENT
-    │
-    ├── JavaScript
-    ├── TypeScript
-    ├── Node.js
-    ├── React.js
-    ├── Express.js
-    └── Vite.js
-          │
-          ▼
-DATABASES
-    │
-    ├── SQL
-    └── PostgreSQL
-          │
-          ▼
-INFRASTRUCTURE & NETWORK
-    │
-    ├── IT Infrastructure
-    ├── Network Infrastructure
-    ├── Network Architecture
-    ├── IT Architecture
-    └── Packet Tracer
-          │
-          ▼
-PROJECT MANAGEMENT
-    │
-    ├── Planning
-    ├── Requirements
-    ├── Organization
-    └── Technology Projects
-infra@github ~ $ cat projects.txt
-CURRENT AREAS
-
-01. Software Development
-02. Backend Development
-03. Frontend Development
-04. JavaScript Development
-05. TypeScript Development
-06. Node.js Development
-07. React.js Development
-08. Express.js Development
-09. Vite.js Development
-10. SQL
-11. PostgreSQL
-12. Database Projects
-13. IT Infrastructure
-14. Network Infrastructure
-15. Network Architecture
-16. IT Architecture
-17. Network Projects
-18. Packet Tracer
-19. Infrastructure Projects
-20. Technology Projects
-21. Project Management
-22. Project Planning
-23. Requirements Analysis
-24. Technology Solutions
-infra@github ~ $ cat philosophy.txt
-Technology is more than software.
-
-
-┌──────────────────────────────────────────────────────────┐
-│                     CURRENT FOCUS                        │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  Software Development                                    │
-│  Backend Development                                     │
-│  JavaScript / TypeScript                                 │
-│  Node.js / Express.js                                    │
-│  React.js / Vite.js                                      │
-│                                                          │
-│  SQL / PostgreSQL                                        │
-│                                                          │
-│  IT Infrastructure                                       │
-│  Network Architecture                                    │
-│  Network Infrastructure                                  │
-│  Packet Tracer                                           │
-│                                                          │
-│  Project Management                                      │
-│  Infrastructure Projects                                 │
-│  Technology Projects                                     │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-
+###
