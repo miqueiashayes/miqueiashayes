@@ -2,7 +2,7 @@
 
 
 
-```text
+
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
 ║                     MIQUÉIAS SANTOS                     ║
@@ -14,63 +14,6 @@
 ╚══════════════════════════════════════════════════════════╝
 
 
-Sou Miquéias Santos, profissional de Tecnologia da Informação com atuação em desenvolvimento de software, infraestrutura de TI, redes e gerenciamento de projetos.
-
-Meu foco está no desenvolvimento de soluções utilizando JavaScript, TypeScript, Node.js, React.js, Express.js e Vite.js, aliado ao conhecimento em SQL, PostgreSQL, infraestrutura de TI e arquitetura de redes.
-
-Também atuo no planejamento e estruturação de projetos de infraestrutura e tecnologia, buscando compreender necessidades, organizar requisitos e transformar problemas em soluções tecnológicas.
-
-Minha trajetória combina desenvolvimento de software, suporte técnico, infraestrutura, redes, bancos de dados e gerenciamento de projetos, proporcionando uma visão ampla dos desafios tecnológicos.
-
-infra@github ~ $ cat stack.txt
-┌──────────────────────────────────────────────────────────┐
-│                  SOFTWARE DEVELOPMENT                    │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  JavaScript                                               │
-│  TypeScript                                               │
-│  Node.js                                                  │
-│  React.js                                                 │
-│  Express.js                                               │
-│  Vite.js                                                  │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-
-
-┌──────────────────────────────────────────────────────────┐
-│                     DATABASE & SQL                       │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  SQL                                                     │
-│  PostgreSQL                                               │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-
-
-┌──────────────────────────────────────────────────────────┐
-│                INFRASTRUCTURE & NETWORK                  │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  IT Infrastructure                                        │
-│  Network Infrastructure                                   │
-│  Network Architecture                                     │
-│  IT Architecture                                          │
-│  Packet Tracer                                             │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-
-
-┌──────────────────────────────────────────────────────────┐
-│                  PROJECT MANAGEMENT                      │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  Project Management                                       │
-│  Project Planning                                         │
-│  Requirements                                             │
-│  Project Organization                                     │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-infra@github ~ $ ls skills
 skills/
 │
 ├── software-development/
