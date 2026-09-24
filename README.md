@@ -318,17 +318,7 @@ CURRENT AREAS
 infra@github ~ $ cat philosophy.txt
 Technology is more than software.
 
-It is about understanding problems,
-designing solutions and building
-reliable technology environments.
 
-Software connects ideas.
-
-Infrastructure connects systems.
-
-Projects connect technology
-to business needs.
-infra@github ~ $ cat current.txt
 ┌──────────────────────────────────────────────────────────┐
 │                     CURRENT FOCUS                        │
 ├──────────────────────────────────────────────────────────┤
@@ -351,30 +341,4 @@ infra@github ~ $ cat current.txt
 │  Technology Projects                                     │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
-infra@github ~ $ cat objective.txt
-OBJECTIVE
 
-Build software.
-Design infrastructure.
-Understand systems.
-Solve technology problems.
-Manage projects.
-Create reliable solutions.
-infra@github ~ $ ./connect.sh
-<div align="center">
-
-<br>
-──────────────────────────────────────────────────────────
-
-              BUILDING SOFTWARE
-              DESIGNING INFRASTRUCTURE
-              SOLVING TECHNOLOGY PROBLEMS
-
-──────────────────────────────────────────────────────────
-</div>
-infra@github ~ $ exit
-Connection closed.
-
-Miquéias Santos
-IT Analyst | Software Developer
-Infrastructure | Network Architecture | Project Management
