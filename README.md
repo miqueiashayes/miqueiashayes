@@ -41,6 +41,15 @@
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
 </div>
 
+<h1 data-importer="text" align="center">SOBRE MIM</h1>
+
+Olá! Sou Miquéias, Analista de TI em migração para DevOps, com experiência prática em infraestrutura, redes e suporte a ambientes corporativos. Minha atuação está diretamente ligada à sustentação de ambientes de TI, resolução de incidentes, organização de infraestrutura e implementação de melhorias.
+Trabalho com arquitetura e topologia de redes, servidores, serviços de rede, firewall, conectividade, gerenciamento de usuários e recursos, monitoramento, backup e suporte N1/N2. Também atuo na análise de ambientes para identificar gargalos, estruturar melhorias e documentar soluções, buscando reduzir falhas e aumentar a disponibilidade dos serviços.
+Tenho uma visão voltada para infraestrutura como base para aplicações e operações, e atualmente estou direcionando essa experiência para DevOps, aprofundando conhecimentos em containers, Kubernetes, Cloud, automação, CI/CD, observabilidade e integração entre desenvolvimento e operações.
+Também possuo experiência com planejamento e documentação de projetos, mapeamento técnico, organização de demandas, Jira, Kanban e atuação como PO, conectando execução técnica, planejamento e necessidades do negócio.
+
+Principais conhecimentos:
+ Networking, MikroTik, Cisco, Datacom, NU, Firewall, Windows Server, Linux, DHCP, servidores de arquivos, Backup, Microsoft 365, ambiente windows, UBUNTU & MINT, Zabbix, Docker, CFTV, Hardware, Kubernetes, PROTCOLOS, Excel, Cloud, Git, GitHub, CI/CD,  Packet Tracer, VsCODE, Hardware, Service Desk/Help Desk N1/N2, JavaScript, TypeScript, Documentação Projetual,  C++, React.js, Express.js, Vite.js, SQL e PostgreSQL, Jira.
 
 
 
